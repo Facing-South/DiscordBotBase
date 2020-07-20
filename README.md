@@ -25,3 +25,12 @@ To be able to work with C # I recommend to use the free version of Visual Studio
 
 ## Download Repository
 After downloading this project, open it in Visual Studio or Visual Studio Code. You may have to install the Discord nuget yourself, your system will show you some of the integrated libraries as unknown. In this case please install this nuget: [Discord.NET](https://www.nuget.org/packages/Discord.Net.Core/)
+
+## Insert Token
+Now that the solution has been downloaded and the Discord nuget has been installed, only one change has to be made in line 16 of the Program.cs. This is exactly where the token you received from the Discord bot has to be inserted.
+
+## Run Bot
+After the token has been inserted in line 16 of the Program.cs, you can start the program. As soon as the program runs, your bot should go online in the Discord channel you invited him to. Congratulations, your own bot is now online on Discord and you can interact with it.
+
+## Example
+To provide you with an example of how exactly you can interact with the bot, I have implemented a method in the BotCommand.cs class. If you write !Hello FacingSouth or !hello FacingSouth while the bot is online, the bot will answer you with "Nice to meet you FacingSouth". Of course you can also use other names than FacingSouth ;). If you just write hello without writing a name behind it, the bot will answer you with "Enter a name so I can greet you". The bot will not respond to any other input. At this point it is up to you to expand the possibilities of the bot and bring in your own ideas. Have lots of fun with it.
