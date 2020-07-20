@@ -24,3 +24,4 @@ follow these steps:
 To be able to work with C # I recommend to use the free version of Visual Studio (Community Edition) under Windows. On Linux or Mac, I would personally recommend Visual Studio Code. How to install these variants e.g. can be found on Youtube.
 
 ## Download Repository
+After downloading this project, open it in Visual Studio or Visual Studio Code. You may have to install the Discord nuget yourself, your system will show you some of the integrated libraries as unknown. In this case please install this nuget: [Discord.NET](https://www.nuget.org/packages/Discord.Net.Core/)
