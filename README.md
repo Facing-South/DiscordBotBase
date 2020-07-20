@@ -19,3 +19,8 @@ follow these steps:
 7. Open the link in a browser (e.g. Google Chrome) and choose the server on which you want to invite your bot to be able to interact with it. Make sure that you have enough rights on the server so that everything works. If you want to invite a bot to a server on which you have no rights, please have an admin of the server open the link for you and invite the bot to the server.
 
 8. After all these points have been dealt with, you are the proud owner of your own bot, which is already on a server. You will still see this as offline, but we will change that in the next steps ;)
+
+## Visual Studio / Visual Studio Code
+To be able to work with C # I recommend to use the free version of Visual Studio (Community Edition) under Windows. On Linux or Mac, I would personally recommend Visual Studio Code. How to install these variants e.g. can be found on Youtube.
+
+## Download Repository
