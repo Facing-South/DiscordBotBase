@@ -1,3 +1,5 @@
+![.NET Core](https://github.com/Facing-South/DiscordBotBase/workflows/.NET%20Core/badge.svg?branch=master&event=push)
+
 # How to use DiscordBotBase
 
 ## Register a bot with Discord
