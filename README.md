@@ -1,6 +1,8 @@
-![.NET Core](https://github.com/Facing-South/DiscordBotBase/workflows/.NET%20Core/badge.svg?branch=master&event=push)
-
 # How to use DiscordBotBase
+
+|License| Discord| Maintained|
+| :-: | :-: | :-: |
+| ![GitHub](https://img.shields.io/github/license/Facing-South/Linux-Commands) | [![Discord](https://img.shields.io/discord/641713710087405589.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/C3gfHBJ) | [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) |
 
 ## Register a bot with Discord
 The creation of a Discord bot is completely free. All you need is a Discord account. If you don't have an account yet, you can create one [here](https://discord.com/).
@@ -36,3 +38,10 @@ After the token has been inserted in line 16 of the Program.cs, you can start th
 
 ## Example
 To provide you with an example of how exactly you can interact with the bot, I have implemented a method in the BotCommand.cs class. If you write !Hello FacingSouth or !hello FacingSouth while the bot is online, the bot will answer you with "Nice to meet you FacingSouth". Of course you can also use other names than FacingSouth ;). If you just write hello without writing a name behind it, the bot will answer you with "Enter a name so I can greet you". The bot will not respond to any other input. At this point it is up to you to expand the possibilities of the bot and bring in your own ideas. Have lots of fun with it.
+
+# Contribution
+I am very happy about each of you who want to expand the code with me. Please follow the following guidelines:
+
+- Add an issue to this repository and give it a name
+- Fork this repository and add your changes
+- Create a pull-request with your changes
