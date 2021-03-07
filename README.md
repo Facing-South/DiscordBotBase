@@ -1,8 +1,8 @@
 # How to use DiscordBotBase
 
-|License| Discord| Maintained|
+| License | Maintained | Last Commit |
 | :-: | :-: | :-: |
-| ![GitHub](https://img.shields.io/github/license/Facing-South/Linux-Commands) | [![Discord](https://img.shields.io/discord/641713710087405589.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/C3gfHBJ) | [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) |
+| ![License](https://img.shields.io/github/license/Facing-South/DiscordBotBaseCSharp) | [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) | ![LastCommit](https://img.shields.io/github/last-commit/Facing-South/DiscordBotBaseCSharp) |
 
 ## Register a bot with Discord
 The creation of a Discord bot is completely free. All you need is a Discord account. If you don't have an account yet, you can create one [here](https://discord.com/).
